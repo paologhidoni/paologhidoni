@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello World, I am Paolo!
 
-<!--
-**paologhidoni/paologhidoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Image of Yaktocat](https://avatars.githubusercontent.com/u/15671939?v=4)
 
-Here are some ideas to get you started:
+I am an aspiring Web Developer who enjoys *each and every new challenge*. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience with coding so far includes building 2 startup landing pages and joining coding bootcamp [Founders and Coders](https://www.foundersandcoders.com) in London; I am currently part of September 2021 cohort. 
+
+My favourite technologies to work with are HTML, CSS, Sass and JavaScript. I keep strive to learn something new every day, my goal for 2021 is to learn React.js and Node.js.
+
+My goals are:
+
+* Work on meaninful projects. 
+* Cooperating with passionate and committed people.
+* Building products that users can benefit from.
+* Constantly grow and improve as a human being and as a developer.
+
+## You can also find me here:
+
+[Codewars](https://www.codewars.com/dashboard)
+
+[Free Code Camp](https://www.freecodecamp.org/paolo)
+
+
+
+
