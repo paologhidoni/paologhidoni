@@ -6,11 +6,11 @@ I am an aspiring Web Developer who enjoys *each and every new challenge*.
 
 My experience with coding so far includes building 2 startup landing pages and joining coding bootcamp [Founders and Coders](https://www.foundersandcoders.com) in London; I am currently part of September 2021 cohort. 
 
-My favourite technologies to work with are HTML, CSS, Sass and JavaScript. I keep strive to learn something new every day, my goal for 2021 is to learn React.js and Node.js.
+My favourite technologies to work with are HTML, CSS, Sass and JavaScript. I strive to learn something new every day, my goal for 2021 is to learn React.js and Node.js.
 
 My goals are:
 
-* Work on meaninful projects. 
+* Working on meaninful projects. 
 * Cooperating with passionate and committed people.
 * Building products that users can benefit from.
 * Constantly grow and improve as a human being and as a developer.
@@ -30,7 +30,6 @@ My goals are:
 > With great power comes great responsibility
 
 
-.. or was it Peter Parker ...  😉 
 
 
 
