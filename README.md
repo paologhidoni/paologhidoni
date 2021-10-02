@@ -1,6 +1,6 @@
 # Hello World, I am Paolo!
 
-![Image of Yaktocat](https://avatars.githubusercontent.com/u/15671939?v=4)
+![Image of Paolo](https://avatars.githubusercontent.com/u/15671939?v=4)
 
 I am an aspiring Web Developer who enjoys *each and every new challenge*. 
 
