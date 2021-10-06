@@ -1,6 +1,6 @@
 # Hello World, I am Paolo!
 
-![Image of Paolo](https://github.com/paologhidoni/paologhidoni/blob/main/header-background.jpg)
+![Image of Paolo](https://github.com/paologhidoni/paologhidoni/blob/main/header-background.png)
 
 I am an aspiring Web Developer who enjoys *each and every new challenge*. 
 
