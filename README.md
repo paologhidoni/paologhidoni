@@ -17,9 +17,9 @@ My core goals are:
 
 ## You can also find me here:
 
-![Codewars Logo](https://github.com/paologhidoni/paologhidoni/blob/main/yellow-codewars.png)[Codewars](https://www.codewars.com/dashboard)
+[![Codewars Logo](https://github.com/paologhidoni/paologhidoni/blob/main/yellow-codewars.png)  Codewars](https://www.codewars.com/dashboard)
 
-![Free Code Camp Logo](https://github.com/paologhidoni/paologhidoni/blob/main/yellow-fcc.png)[Free Code Camp](https://www.freecodecamp.org/paolo)
+[![Free Code Camp Logo](https://github.com/paologhidoni/paologhidoni/blob/main/yellow-fcc.png)  Free Code Camp](https://www.freecodecamp.org/paolo)
 
 
 
