@@ -25,7 +25,7 @@ My core goals are:
 
 
 
-*As Peter Parker once said:*
+![Spiderman web icon](https://github.com/paologhidoni/paologhidoni/blob/main/web.png)  *As Peter Parker once said:*
 
 > "With great power comes great responsibility"
 
