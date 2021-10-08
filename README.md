@@ -2,17 +2,17 @@
 
 # Hello World, I am Paolo!
 
-I am an aspiring Web Developer who enjoys *each and every new challenge*. 
+I am an aspiring Software Developer who enjoys *each and every new challenge*. 
 
-My experience with coding so far includes building 3 startup landing pages and joining coding bootcamp [Founders and Coders](https://www.foundersandcoders.com) in London; I am currently part of September 2021 cohort. 
+## My experience with coding so far includes:
+
+ * Building 3 startup landing pages.
+ * Joining @fac23 September 2021 cohort of the [Founders and Coders](https://www.foundersandcoders.com) coding bootcamp in London.
 
 ## My favorite technologies to work with are:
-
-![HTML logo](https://github.com/paologhidoni/paologhidoni/blob/main/html.png)
-
-![CSS Logo](https://github.com/paologhidoni/paologhidoni/blob/main/css.png)
-
-![JavaScript Logo](https://github.com/paologhidoni/paologhidoni/blob/main/js.png)
+&nbsp;|&nbsp;|&nbsp;
+-------|--------|--------
+![HTML logo](https://github.com/paologhidoni/paologhidoni/blob/main/html.png) | ![CSS Logo](https://github.com/paologhidoni/paologhidoni/blob/main/css.png) | ![JavaScript Logo](https://github.com/paologhidoni/paologhidoni/blob/main/js.png)
 
 
 ## My core goals are:
@@ -29,6 +29,17 @@ My experience with coding so far includes building 3 startup landing pages and j
 [![Codewars Logo](https://github.com/paologhidoni/paologhidoni/blob/main/yellow-codewars.png)  Codewars](https://www.codewars.com/users/PaoloGhidoni)
 
 [![Free Code Camp Logo](https://github.com/paologhidoni/paologhidoni/blob/main/yellow-fcc.png)  Free Code Camp](https://www.freecodecamp.org/paolo)
+
+
+## My other interests are:
+
+* Audio Engineering 🎤 & music - listening 🎶 and playing 🎸
+
+* Pooches 🐶 🐶 🐶
+
+* Food. 🍝 I will eat anything once. I will eat pizza twice as much 🍕
+
+* UFOs. For real. 👽 🛸
 
 
 ## Quote of the day:
