@@ -12,7 +12,7 @@ I am an aspiring Software Developer who enjoys *each and every new challenge*.
 ## My favorite technologies to work with are:
 &nbsp;|&nbsp;|&nbsp;
 -------|--------|--------
-![HTML logo](https://github.com/paologhidoni/paologhidoni/blob/main/html.png) | ![CSS Logo](https://github.com/paologhidoni/paologhidoni/blob/main/css.png) | ![JavaScript Logo](https://github.com/paologhidoni/paologhidoni/blob/main/js.png)
+![HTML logo](html.png) | ![CSS Logo](css.png) | ![JavaScript Logo](js.png)
 
 
 ## My core goals are:
