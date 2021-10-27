@@ -7,7 +7,7 @@ I am an aspiring Software Developer who enjoys *each and every new challenge*.
 ## My experience with coding so far includes:
 
  * Building 3 startup landing pages.
- * Joining @fac23 September 2021 cohort of the [Founders and Coders](https://www.foundersandcoders.com) coding bootcamp in London.
+ * Joining @fac-23 September 2021 cohort of the [Founders and Coders](https://www.foundersandcoders.com) coding bootcamp in London.
 
 ## My favorite technologies to work with are:
 ![HTML logo](html.png)|![CSS Logo](css.png)|![JavaScript Logo](js.png)
