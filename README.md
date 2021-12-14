@@ -10,7 +10,7 @@ I am an aspiring Software Developer who enjoys *each and every new challenge*.
  * Joining @fac-23 September 2021 cohort of the [Founders and Coders](https://www.foundersandcoders.com) coding bootcamp in London.
 
 ## My favorite technologies to work with are:
-![HTML logo](html.png)|![CSS Logo](css.png)|![JavaScript Logo](js.png)
+![HTML logo](html.png)|![CSS Logo](css.png)|![JavaScript Logo](js.png)|![React.js Logo](react-logo.png)|![Node.js Logo](node-icon.png)
 -------|--------|--------
 
 
