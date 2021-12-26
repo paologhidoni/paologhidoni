@@ -1,4 +1,4 @@
-![Image of Paolo](header-background.png)
+![Image of Paolo](img/header-background.png)
 
 # Hello World, I am Paolo!
 
@@ -10,8 +10,8 @@ I am an aspiring Software Developer who enjoys *each and every new challenge*.
  * Joining @fac-23 September 2021 cohort of the [Founders and Coders](https://www.foundersandcoders.com) coding bootcamp in London.
 
 ## My favorite technologies to work with are:
-![HTML logo](html.png)|![CSS Logo](css.png)|![JavaScript Logo](js.png)|![React.js Logo](react-logo.png)|![Node.js Logo](node-icon.png)
--------|--------|--------|--------|--------
+![HTML logo](img/html.png)|![CSS Logo](img/css.png)|![JavaScript Logo](img/js.png)|![Node.js Logo](img/node-icon.png)|![React.js Logo](img/react-logo.png)|![Angular Logo](img/angular.png)
+-------|--------|--------|--------|--------|--------
 
 
 ## My core goals are:
@@ -25,9 +25,9 @@ I am an aspiring Software Developer who enjoys *each and every new challenge*.
 
 ## You can also find me here:
 
-[![Codewars Logo](yellow-codewars.png)  Codewars](https://www.codewars.com/users/PaoloGhidoni)
+[![Codewars Logo](img/yellow-codewars.png)  Codewars](https://www.codewars.com/users/PaoloGhidoni)
 
-[![Free Code Camp Logo](yellow-fcc.png)  Free Code Camp](https://www.freecodecamp.org/paolo)
+[![Free Code Camp Logo](img/yellow-fcc.png)  Free Code Camp](https://www.freecodecamp.org/paolo)
 
 
 ## My other interests are:
@@ -43,7 +43,7 @@ I am an aspiring Software Developer who enjoys *each and every new challenge*.
 
 ## Quote of the day:
 
-![Spiderman web icon](web.png)  *As Peter Parker once said:*
+![Spiderman web icon](img/web.png)  *As Peter Parker once said:*
 
 > "With great power comes great responsibility"
 
