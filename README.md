@@ -41,13 +41,6 @@ I am an aspiring Software Developer who enjoys *each and every new challenge*.
 * UFOs. For real. 👽 🛸
 
 
-## Quote of the day:
-
-![Spiderman web icon](img/web.png)  *As Peter Parker once said:*
-
-> "With great power comes great responsibility"
-
-
 
 
 
