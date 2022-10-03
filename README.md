@@ -14,6 +14,8 @@ I am an aspiring Software Developer who enjoys *each and every new challenge*.
 -------|--------|--------|--------|--------|--------
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paologhidoni)
+
 ## My core goals are:
 
 * Learning something new every day; my goal for 2021 - 2022 is to learn React.js and Node.js.
@@ -21,7 +23,6 @@ I am an aspiring Software Developer who enjoys *each and every new challenge*.
 * Cooperating with passionate and committed people.
 * Building products that users can benefit from.
 * Constantly grow and improve as a human being and as a developer.
-
 
 ## You can also find me here:
 
