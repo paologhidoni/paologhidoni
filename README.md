@@ -2,26 +2,18 @@
 
 # Hello World, I am Paolo!
 
-I am an aspiring Software Developer who enjoys *each and every new challenge*. 
-
-## My experience with coding so far includes:
-
- * Building 3 startup landing pages.
- * Joining @fac-23 September 2021 cohort of the [Founders and Coders](https://www.foundersandcoders.com) coding bootcamp in London.
+I am a Software Developer who enjoys *each and every new challenge*. 
 
 ## My favorite technologies to work with are:
 ![HTML logo](img/html.png)|![CSS Logo](img/css.png)|![JavaScript Logo](img/js.png)|![Node.js Logo](img/node-icon.png)|![React.js Logo](img/react-logo.png)|![Angular Logo](img/angular.png)
 -------|--------|--------|--------|--------|--------
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paologhidoni)
-
 ## My core goals are:
 
-* Learning something new every day; my goal for 2021 - 2022 is to learn React.js and Node.js.
-* Working on meaningful projects. 
+* Learning something new every day.
+* Working on meaningful projects that users can benefit from. 
 * Cooperating with passionate and committed people.
-* Building products that users can benefit from.
 * Constantly grow and improve as a human being and as a developer.
 
 ## You can also find me here:
@@ -33,13 +25,11 @@ I am an aspiring Software Developer who enjoys *each and every new challenge*.
 
 ## My other interests are:
 
-* Audio Engineering 🎤 & music - listening 🎶 and playing 🎸
+* Audio engineering & music.
 
-* Pooches 🐶 🐶 🐶
+* Pooches.
 
-* Food. 🍝 I will eat anything once. I will eat pizza twice as much 🍕
-
-* UFOs. For real. 👽 🛸
+* Food. I will eat anything once. I will eat pizza twice as much.
 
 
 
