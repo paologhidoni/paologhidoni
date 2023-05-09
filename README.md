@@ -1,5 +1,3 @@
-![Image of Paolo](img/header-background.png)
-
 # Hello World, I am Paolo!
 
 I am a Software Developer who enjoys *each and every new challenge*. 
