@@ -20,7 +20,7 @@ I am a Software Developer who enjoys _each and every new challenge_.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="60" height="60" style="margin-right: 1rem;"/>
 </p>
 
-## My core goals are:
+## 🎯 My core goals are:
 
 - Working on meaningful projects that have a social impact and meet the user's need.
 - Learning technology with a dynamic, sustainable approach.
@@ -44,7 +44,7 @@ I am a Software Developer who enjoys _each and every new challenge_.
   </a>
 </p>
 
-## My other interests are:
+## 💡 My other interests are:
 
 - Audio engineering & music.
 
