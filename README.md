@@ -18,6 +18,7 @@ I am a Software Developer who enjoys _each and every new challenge_.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" style="margin-right: 1rem;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin-right: 1rem;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="60" height="60" style="margin-right: 1rem;"/>
+  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width="60" height="60" style="margin-right: 1rem;"/>
 </p>
 
 ## My core goals are:
