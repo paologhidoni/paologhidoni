@@ -22,13 +22,6 @@ I combine technical expertise with a commitment to meaningful innovation.
   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width="60" height="60" style="margin-right: 1rem;"/>
 </p>
 
-## My core goals are:
-
-- Working on meaningful projects that have a social impact and meet the user's need.
-- Learning technology with a dynamic, sustainable approach.
-- Cooperating with passionate and committed people.
-- Constantly grow and improve as a human being and as a developer.
-
 ## Connect With Me
 
 <p align="left">
