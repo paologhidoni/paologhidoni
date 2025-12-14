@@ -20,6 +20,7 @@ I combine technical expertise with a commitment to meaningful innovation.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin-right: 1rem;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="60" height="60" style="margin-right: 1rem;"/>
   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width="60" height="60" style="margin-right: 1rem;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin-right: 1rem;"/>
 </p>
 
 ## Connect With Me
