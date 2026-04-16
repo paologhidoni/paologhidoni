@@ -17,6 +17,10 @@ I combine technical expertise with a commitment to meaningful innovation.
 | --- | --- | --- | --- | --- |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60"/> |
 
+| OpenAI | LangChain |  |  |  |
+| --- | --- | --- | --- | --- |
+| <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="60" height="60"/> |  |  |  |
+
 ## Connect With Me
 
 | LinkedIn | LeetCode | Codewars | FCC |
