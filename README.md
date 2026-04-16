@@ -7,7 +7,7 @@ I combine technical expertise with a commitment to meaningful innovation.
 
 | OpenAI | LangChain | JS | TS | React |
 | --- | --- | --- | --- | --- |
-| <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/> |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" alt="OpenAI" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/> |
 
 | Angular | Next | Node | Tailwind | AWS |
 | --- | --- | --- | --- | --- |
