@@ -1,6 +1,6 @@
 # Hey! I am Paolo!
 
-I am a Software Developer with a passion for building intuitive, user-focused applications that make a tangible difference in people’s lives. 
+I am a Software Developer with a passion for building intuitive, user-focused applications that make a tangible difference in people’s lives.
 I combine technical expertise with a commitment to meaningful innovation.
 
 ## Technologies I Use
