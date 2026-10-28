@@ -1,34 +1,83 @@
-# Hey! I am Paolo!
+<div align="center">
 
-I am a Software Developer with a passion for building intuitive, user-focused applications that make a tangible difference in people’s lives.
-I combine technical expertise with a commitment to meaningful innovation.
+# Paolo Ghidoni
 
-## Technologies I Use
+**Full-stack engineer** · **Agentic AI** · **React Native**
 
-| OpenAI | LangChain | JS | TS | React |
-| --- | --- | --- | --- | --- |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" alt="OpenAI" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/> |
+I build intuitive, user-focused applications and care about meaningful innovation.
 
-| Angular | Next | Node | Tailwind | AWS |
-| --- | --- | --- | --- | --- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="60" height="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="60"/> |
+<a href="https://paologhidoni.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-paologhidoni.github.io%2Fportfolio-2563eb?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/paologhidoni/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/paologhidoni" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/IamPaolo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.codewars.com/users/PaoloGhidoni" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars" /></a>
 
-| Cypress | Jest | Figma | Git | Sass |
-| --- | --- | --- | --- | --- |
-| <img src="img/cypress.png" alt="Cypress" width="60" height="60"/> | <img src="img/jest.png" alt="Jest" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="60" height="60"/> |
+<!-- Stats + languages -->
 
-| Styled | Python |  |  |  |
-| --- | --- | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60"/> |  |  |  |
+<a href="https://github.com/paologhidoni" target="_blank" rel="noopener noreferrer"><img src="https://streak-stats.demolab.com/?user=paologhidoni&hide_border=true&ring=2563eb&fire=2563eb&currStreakNum=2563eb&sideNums=2563eb&currStreakLabel=434d56&sideLabels=434d56&dates=434d56" alt="GitHub streak" /></a>
 
-## Connect With Me
+</div>
 
-| LinkedIn | LeetCode | Codewars | FCC |
-| --- | --- | --- | --- |
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>](https://www.linkedin.com/in/paologhidoni/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="60" height="60"/>](https://leetcode.com/u/IamPaolo/) | [<img src="img/codewars.png" alt="Codewars" width="60" height="60"/>](https://www.codewars.com/users/PaoloGhidoni) | [<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/freecodecamp.svg" alt="freeCodeCamp" width="60" height="60"/>](https://www.freecodecamp.org/paolo) |
+<div align="left">
 
-## My other interests are:
+## Skills
 
-- Audio engineering & music.
-- Pooches.
-- Food: I will eat anything once. I will eat pizza twice as much.
+### Mobile
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</p>
+
+### AI / Agentic
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### Web
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+### Design
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+### Cloud / QA / Ops
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Expo_EAS-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo EAS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=mobile&logoColor=white" alt="Maestro" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+Feel free to explore my repos or <a href="https://www.linkedin.com/in/paologhidoni/" target="_blank" rel="noopener noreferrer">say hi on LinkedIn</a>.
+
+</div>
