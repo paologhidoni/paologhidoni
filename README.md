@@ -6,9 +6,8 @@
 
 I build intuitive, user-focused applications and care about meaningful innovation.
 
-<a href="https://paologhidoni.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-paologhidoni.github.io%2Fportfolio-2563eb?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://paologhidoni.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/paologhidoni/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/paologhidoni" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://leetcode.com/u/IamPaolo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://www.codewars.com/users/PaoloGhidoni" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars" /></a>
 
